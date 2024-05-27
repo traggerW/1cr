@@ -9,4 +9,14 @@
     <value>Внешний отчет</value>
   </synonym>
   <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="37828e6a-967a-4f4a-869c-c8ee558ae1a5"/>
+  <defaultForm>ExternalReport.ВнешнийОтчет.Form.cfbcfb</defaultForm>
+  <forms uuid="bb4537b6-b66e-4ac7-a0c6-7a3390fa2695">
+    <name>cfbcfb</name>
+    <synonym>
+      <key>ru</key>
+      <value>Cfbcfb</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalReport>
