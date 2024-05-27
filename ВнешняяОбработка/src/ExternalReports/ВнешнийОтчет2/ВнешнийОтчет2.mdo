@@ -3,10 +3,20 @@
   <producedTypes>
     <objectType typeId="b6fd2897-abcb-42a2-8efc-27e1366860c5" valueTypeId="d28536fd-0f8e-4f8d-a3d5-ad04f5ae442b"/>
   </producedTypes>
-  <name>ВнешнийОтчет1</name>
+  <name>ВнешнийОтчет2</name>
   <synonym>
     <key>ru</key>
-    <value>Внешний отчет1</value>
+    <value>Внешний отчет2</value>
   </synonym>
   <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="141cc974-dd18-4bfb-bb4d-9b708c959929"/>
+  <defaultForm>ExternalReport.ВнешнийОтчет2.Form.cfbcfb</defaultForm>
+  <forms uuid="85adb8ff-4704-4d31-8308-5b6a297ca811">
+    <name>cfbcfb</name>
+    <synonym>
+      <key>ru</key>
+      <value>Cfbcfb</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalReport>
